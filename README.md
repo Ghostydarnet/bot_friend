@@ -1,7 +1,5 @@
----
 
 ### Actualización: Versión 2.0
-
 #### Novedades:
 
 1. *Comando /battery*: Ahora el bot puede proporcionar información sobre el estado de la batería del dispositivo. Simplemente ejecuta el comando /battery para conocer si está enchufado, el porcentaje de carga y el tiempo restante estimado.
@@ -21,5 +19,3 @@
 - Correcciones de errores menores y mejoras en la usabilidad.
 
 ¡Esperamos que disfrutes de estas nuevas características y mejoras! No dudes en dejarnos tus comentarios o sugerencias para futuras actualizaciones.
-
----
