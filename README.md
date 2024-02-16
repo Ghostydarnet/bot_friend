@@ -1,24 +1,25 @@
 ---
 
-# Bot Friend
+### Actualización: Versión 2.0
 
-¡Bienvenido a Bot Friend, tu compañero virtual inteligente!
+#### Novedades:
 
-Bot Friend es un bot simple desarrollado en Python que te brinda acceso a una variedad de recursos útiles, desde enlaces de música y anime hasta información del sistema y herramientas útiles para desarrolladores. Este proyecto está en constante evolución y se esfuerza por mejorar la experiencia del usuario con cada actualización.
+1. *Comando /battery*: Ahora el bot puede proporcionar información sobre el estado de la batería del dispositivo. Simplemente ejecuta el comando /battery para conocer si está enchufado, el porcentaje de carga y el tiempo restante estimado.
 
-## Características principales:
-- *Comandos útiles*: Accede fácilmente a una lista de comandos escribiendo /list para descubrir todas las funcionalidades disponibles.
-- *Enlaces útiles*: Obtén enlaces a tus servicios de música favoritos, sitios de anime, herramientas de desarrollo y más.
-- *Información del sistema*: Conoce detalles sobre tu sistema operativo, versión y arquitectura con el comando /infersys.
-- *Descargas rápidas*: Encuentra enlaces de descarga para tus aplicaciones y software favoritos con el comando /download.
-- *Gestión de credenciales*: Guarda tus credenciales de forma segura utilizando el comando /guardar_credenciales.
-- *Soporte en caso de errores*: Si encuentras algún problema, contáctame directamente proporcionando tu número de teléfono en el comando /help.
+2. *Comando /info_html*: Se ha agregado un nuevo comando para generar una página web básica con información sobre el bot y sus actualizaciones recientes. La página incluye detalles sobre las últimas versiones y un fondo personalizado.
 
-## Actualizaciones recientes:
-- *Nuevos comandos*: Se han agregado comandos como /tools para acceder a herramientas útiles como Pydroid y Termux, y /whatsapp_links para obtener enlaces de versiones modificadas de WhatsApp.
-- *Mejoras en la interfaz de usuario*: Se ha mejorado el formato de salida de los comandos para una experiencia de usuario más agradable.
-- *Solución de errores*: Se han corregido varios errores reportados por los usuarios para garantizar un funcionamiento más estable.
+3. *Comando /up_server*: Se ha implementado un nuevo comando para iniciar un servidor web directamente desde el bot. Esto facilita la visualización de la página HTML generada con el comando /info_html.
 
-¡Únete a nuestra comunidad y haz de Bot Friend tu asistente virtual preferido! Si tienes sugerencias de nuevas características o encuentras algún problema, ¡no dudes en hacérmelo saber!
+4. *Comando /generar_contrasena*: Ahora puedes generar contraseñas aleatorias utilizando el comando /generar_contrasena. Simplemente especifica la longitud deseada y obtendrás una contraseña segura.
+
+5. *Comando /numero_loteria*: Agregado un comando para generar números de lotería al azar. Ideal para aquellos que necesitan números aleatorios para juegos de lotería o sorteos.
+
+#### Mejoras:
+
+- Mejoras en el diseño de la página HTML generada por el comando /info_html.
+- Optimización del código para una ejecución más eficiente y rápida.
+- Correcciones de errores menores y mejoras en la usabilidad.
+
+¡Esperamos que disfrutes de estas nuevas características y mejoras! No dudes en dejarnos tus comentarios o sugerencias para futuras actualizaciones.
 
 ---
